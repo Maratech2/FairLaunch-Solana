@@ -1,0 +1,1 @@
+{\n  \"name\": \"fair-launch-solana\",\n  \"version\": \"1.0.0\",\n  \"dependencies\": {\n    \"next\": \"latest\",\n    \"react\": \"latest\",\n    \"react-dom\": \"latest\",\n    \"@solana/wallet-adapter-react\": \"latest\",\n    \"@solana/wallet-adapter-wallets\": \"latest\",\n    \"@solana/wallet-adapter-base\": \"latest\",\n    \"tailwindcss\": \"latest\"\n  }\n}
