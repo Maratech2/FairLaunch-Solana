@@ -1,0 +1,14 @@
+[package]
+name = "fairlaunch"
+edition = "2021"
+version = "0.1.0"
+authors = ["Maratech2 <your-email@example.com>"]
+description = "A fair launch program for Solana"  
+documentation = "https://docs.rs/fairlaunch/0.1.0"
+license = "MIT"
+readme = "README.md"
+keywords = ["solana", "fairlaunch"]
+
+[dependencies]
+anchor-lang = "0.26.0"
+anchor-spl = "0.26.0"
